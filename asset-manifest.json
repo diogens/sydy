@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sydy/static/css/main.2cce8147.chunk.css",
+    "main.js": "/sydy/static/js/main.49a0dcd6.chunk.js",
+    "main.js.map": "/sydy/static/js/main.49a0dcd6.chunk.js.map",
+    "runtime~main.js": "/sydy/static/js/runtime~main.65e0e7d6.js",
+    "runtime~main.js.map": "/sydy/static/js/runtime~main.65e0e7d6.js.map",
+    "static/js/2.b41502e9.chunk.js": "/sydy/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/sydy/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/sydy/index.html",
+    "precache-manifest.e39fcfcaced5c725c59c2160e690040a.js": "/sydy/precache-manifest.e39fcfcaced5c725c59c2160e690040a.js",
+    "service-worker.js": "/sydy/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/sydy/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/sydy/static/media/logo.5d5d9eef.svg"
+  }
+}
